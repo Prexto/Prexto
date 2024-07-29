@@ -13,6 +13,7 @@ I’m a Multimedia Engineering student with a passion for cybersecurity and deve
 
 ## 🌱 I’m currently learning
 - React.js
+- Next.js
 - Advanced cybersecurity techniques
 - Modern UX/UI trends
 - .NET Framework
