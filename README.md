@@ -26,9 +26,9 @@ I’m a Multimedia Engineering student with a passion for cybersecurity and deve
 - Data analysis and visualization projects
 
 ## 📫 How to reach me
-- [LinkedIn](linkedin.com/in/james-messino-a8a290256)
-- [X (Twitter)](x.com/messino_james)
-- [GitHub](github.com/Prexto)
+- [LinkedIn](https://www.linkedin.com/in/james-messino-a8a290256/)
+- [X (Twitter)](https://x.com/messino_james)
+- [GitHub](https://github.com/Prexto)
 
 ## 😄 Pronouns: He/Him
 
@@ -38,6 +38,7 @@ I enjoy exploring new technologies and am always on the lookout for creative way
 ---
 
 Thanks for visiting my profile!
+
 
 
 <!--- - 👋 Hi, I’m @Prexto
